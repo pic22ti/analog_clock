@@ -16,7 +16,7 @@
 
 ## Preview
 
-![preview_analog_clock](analog_clock_android.png)
+![preview_analog_clock](analog_clock_android.PNG)
 
 ## 기능
 
